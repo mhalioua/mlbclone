@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  TEMP: 1.5
+  DP: 1.5
+  HUMID: 1.5
+  BARo: 1.5
+  R: 1.5
+  Total_Hits: 1.5
+  Total_Walks: 1.5
+  home_runs: 1.5
+
+two:
+  TEMP: 1.5
+  DP: 1.5
+  HUMID: 1.5
+  BARo: 1.5
+  R: 1.5
+  Total_Hits: 1.5
+  Total_Walks: 1.5
+  home_runs: 1.5
